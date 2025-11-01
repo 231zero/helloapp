@@ -11,7 +11,12 @@ namespace HelloApp
 
         static void GreetWhite()
         {
-            Console.WriteLine("hello world");
+            Console.WriteLine("hello white");
+        }
+
+        static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
         }
     }
 }
